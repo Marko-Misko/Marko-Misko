@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miskho
-- 👀 I’m interested in Deep Learning, Computer Vision, NLP, Similarity search, clean code, ...
-- 🌱 I’m currently learning optimizing and automating ML training and supporting operations
-- 💞️ I’m looking to collaborate on large and small ML projects 
+- 👀 I’m interested in Data Engineering, Data infrastructure, Deep Learning, Computer Vision, NLP, Similarity search, clean code, ...
+- 🌱 I’m currently learning about implementations of efficient and scalable data platforms
+- 💞️ I’m looking to collaborate on large and small projects 
 - 📫 How to reach me: mark.miskovic@protonmail.com
 
 <!---
